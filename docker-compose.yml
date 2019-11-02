@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+        prod-react:
+                build: .
+                ports:
+                        - "3018:80"
+
