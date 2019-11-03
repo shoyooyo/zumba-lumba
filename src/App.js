@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-  Here is the code change i did. Another line added by Ajaz. Added as Ubuntu user.
+  Here is the code change i did, into a sub branch called hotfix.
         </p>
         <a
           className="App-link"
